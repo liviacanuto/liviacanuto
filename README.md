@@ -2,7 +2,7 @@
 
 Sou estudante de Ciência e Tecnologia na Unifesp, apaixonada por programação e aprender coisas novas. Desenvolvo software com impacto social no grupo de extensão CodeLab-Unifesp.
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
 - 🎓 Ciência e Tecnologia na Unifesp
 - 💻 Apaixonada por programação e aprender coisas novas
@@ -11,20 +11,20 @@ Sou estudante de Ciência e Tecnologia na Unifesp, apaixonada por programação 
 - 🎮 Gamer nas horas vagas, explorando jogos como *Cyberpunk 2077*
 - 🇯🇵 Estudante de japonês nas horas vagas
 
-## Skills
+## ⚙️ Skills
 
 - **Linguagens**: C, Java, SQL, Javascript, TypeScript
 - **Frameworks e Bibliotecas**: Node.js e Prisma (back-end), Vue.js e React native (front-end)
 - **Outros interesses**: Inteligência Artificial e Cybersegurança
 
-## Projetos Recentes
+## 💡 Projetos Recentes
 
 ### HangOut
 - Desenvolvi parte de uma aplicação que ajuda amigos a se reunirem em locais igualmente distantes. Utilizei a API Places do Google Maps para tornar possível encontrar um ponto central e facilitar os encontros de forma justa.
 - Cálculo do ponto médio com base na latitude e longitude dos usuários
 - Filtros por tipo de estabelecimento e custo
 
-### 🚍 CodeLab - Unifesp
+### CodeLab - Unifesp
 - Desenvolvo software de forma voluntária no CodeLab. Uma iniciativa que reúne estudantes para criar soluções de código aberto para problemas reais da sociedade.
 - Participo do projeto Vapt (antigo EMTU-WEB). Esse projeto ajuda pessoas com deficiência encontrar transporte público que possuem as adequações necessárias.
 - O projeto também busca gerar dados para que as empresas saibam quais rotas precisam de ônibus mais acessíveis.
