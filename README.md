@@ -9,7 +9,6 @@ Sou estudante de Ciência e Tecnologia na Unifesp, apaixonada por programação 
 - 🌱 Atualmente, estou aprofundando meu conhecimento em Back-End.
 - 🌐 Contribuo para projetos de impacto social através do [CodeLab - Unifesp](https://www.codelab-unifesp.org/)
 - 🎮 Gamer nas horas vagas, explorando jogos como *Cyberpunk 2077*
-- 🇯🇵 Estudante de japonês nas horas vagas
 
 ## ⚙️ Skills
 
